@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mag's rags to riches]]></title>
+        <description><![CDATA[mag's rags to riches]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Jun 2016 18:20:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[wishing i was there to see the look on yo face! and wait, can I just say how I love that you're not wearing shoes? #surprise #iloveyou #beepi]]></title>
+            <description><![CDATA[<article><h1>wishing i was there to see the look on yo face! and wait, can I just say how I love that you're not wearing shoes? #surprise #iloveyou #beepi</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13167384_1019560254797581_89107956_n.jpg?ig_cache_key=MTI1ODAzNzAzNjU2Mjc4NzQ2MA%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BF1cgT2nCyE/?taken-by=maggieophilbin</link>
+            <guid isPermaLink="false">0ed1342d-c444-40ff-bbf5-fb64eed2a185</guid>
+            <pubDate>Fri, 03 Jun 2016 18:20:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

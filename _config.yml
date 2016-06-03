@@ -1,14 +1,14 @@
-layout_spectrum: 0.49304314027540386
-typography_spectrum: 0.6064719965215772
+layout_spectrum: 0.7229177572298795
+typography_spectrum: 0.31398360221646726
 color:
-  brandStrength: 0.6197372460737824
-  lightness: 0.0018339392263442278
-  saturation: 0.18442868534475565
-  rhythmicContrast: 0.05209015682339668
+  brandStrength: 0.26013332651928067
+  lightness: 0.2633897627238184
+  saturation: 0.8482715459540486
+  rhythmicContrast: 0.319283481920138
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: "mag's rags to riches"
